@@ -1,0 +1,42 @@
+#header{
+    width: 100%;
+    background-color: rgb(223, 201, 168);
+    margin: 0px;
+    top: 0px;
+    
+}
+#show_sketch{
+float: right;
+height: 40px;
+font-size: large;
+border-radius: 10px;
+background-color: rgb(129, 112, 92);
+}
+#score_label{
+    float: left;
+}
+#timer_label{
+    float: right;
+}
+body{
+    background:linear-gradient(white, rgb(167, 135, 117)) ;
+}
+#title{
+   margin-left: 30px; 
+   font-weight: bold;
+}
+#footer{
+    width: 100%;
+    background-color: rgb(223, 201, 168);
+    bottom: 0px;
+    position: fixed;
+
+}
+#footer_title{
+    font-weight: bold;
+}
+h3{
+    background-color: rgb(212, 200, 176);
+    width: 200px;
+    border-radius: 10px;
+}
